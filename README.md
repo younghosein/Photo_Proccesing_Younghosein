@@ -8,4 +8,3 @@
 <h4>Matplotlib</h4>
 <h4>Venv.py</h4>
 <h6>Developed by me</h6>
-[Uploading Image Proccesing.pdf…]()
